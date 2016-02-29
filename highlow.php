@@ -1,6 +1,6 @@
 <?php 
 
-$random_number = rand(0, 100);
+$random_number = rand(0, 1000000);
 
 $input;
 
